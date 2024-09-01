@@ -40,6 +40,7 @@
   border-color: tomato;
 }
 
-.active {
-  display: none;
+.btnLink.active {
+  color: tomato;
+  border-color: tomato;
 }
