@@ -18,7 +18,7 @@ function App() {
             {/* <Route path="/weather" element={<WeatherScreen />} /> */}
             <Route path="/currency" element={<CurrencyScreen />} />
             <Route path="/feed" element={<FeedScreen />} />
-            <Route path="/" exact element={<WebSocketScreen />} />
+            <Route path="react-telegram-mini-app/" exact element={<WebSocketScreen />} />
 
             <Route path="*" element={<PageNotFound />} />
           </Routes>
