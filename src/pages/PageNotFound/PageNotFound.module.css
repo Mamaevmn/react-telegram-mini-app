@@ -1,0 +1,10 @@
+.pageError {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: calc(100vh - 50px * 2);
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+}
